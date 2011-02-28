@@ -19,12 +19,23 @@ Binaries
 This package provides:
 
  - libcairo-2.dll
+ - freetype6.dll
+ - libfontconfig-1.dll
+ - libpng14-14.dll
+ - zlib1.dll
 
 License
 =======
 
-Cairo is dual licensed under the terms of the `GNU Lesser General Public
-License`_, version 2, and the `Mozilla Public License`_.
+ - libfontconfig is licensed under the terms of the `GNU Lesser General Public
+   License`_, version 2.
+ - Freetype is dual licensed under the terms of the `FreeType license`_ and the
+   terms of the `GNU General Public License`_, version 2.
+ - cairo, which is dual licensed under the terms of the `GNU Lesser General
+   Public License`_, version 2, and the `Mozilla Public License`_.
+ - fontconfig, which is licensed under the terms of the `fontconfig license`_.
+ - libpng, which is licensed under the terms of the `libpng license`_.
+ - zlib, which is licensed under the terms of the `zlib license`_.
 
 This individual package, its documentation, and the code required to build the
 package, is licensed under the terms of the MIT License. See `LICENSE.RST`_.
@@ -37,8 +48,18 @@ Binaries
 
 Binary packages were located at the following sources:
 
+Binary packages were located at the following sources:
+
+ - `GTK+ "development" bundle`_:
+     - freetype6
+     - libfontconfig-1
+     - libpng14-14
+     - zlib1
  - `libcairo-2.dll`_
  - `python-cairo-dependencies`_
+
+Individual binaries from the GTK+ bundle can be found on the `GNOME Desktop
+Project's Windows binaries page`_.
 
 Sources
 -------
@@ -46,6 +67,10 @@ Sources
 Source packages for each of these can be found at the following locations:
 
  - `cairo`_
+ - `freetype6`_
+ - `libfontconfig-1`_
+ - `libpng14-14`_
+ - `zlib1`_
  - `python-cairo`_
  - `python-cairo-dependencies (source)`_ (this project)
 
@@ -62,6 +87,7 @@ Source packages for each of these can be found at the following locations:
 .. Binaries
 .. --------
 .. 
+.. _`GTK+ "development" bundle`: http://www.gtk.org/download-windows.html
 .. _`libcairo-2.dll`: http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/cairo_1.10.2-1_win32.zip
 .. _`python-cairo`: http://ftp.gnome.org/pub/GNOME/binaries/win32/pycairo/
 .. _`python-cairo-dependencies`: http://www.wxwhatever.com/jmcb/cairo/cairo-dependencies-0.1.win32.exe
@@ -70,5 +96,9 @@ Source packages for each of these can be found at the following locations:
 .. -------
 .. 
 .. _`cairo`: http://cairographics.org/download/
+.. _`freetype6`: http://www.freetype.org/download.htm
+.. _`libfontconfig-1`: http://www.freedesktop.org/software/fontconfig/release/
+.. _`libpng14-14`: http://www.libpng.org/pub/png/libpng.html
+.. _`zlib1`: http://zlib.net/
 .. _`python-cairo (source)`: http://ftp.gnome.org/pub/GNOME/sources/gnome-python-desktop/
 .. _`python-cairo-depdencies (source)`: http://www.github.com/jmcb/python-cairo-depedencies/
