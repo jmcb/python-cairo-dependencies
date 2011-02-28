@@ -11,10 +11,10 @@ def main ():
 
     others = ["README.rst", "LICENSE.rst"]
 
-    long_description = """    This package contains dynamic link dependencies required to run the
-    python-cairo library on Microsoft Windows. 
+    long_description = """This package contains dynamic link dependencies required to run the
+python-cairo library on Microsoft Windows. 
 
-    Please see README.rst for more details."""
+Please see README.rst for more details."""
 
     classifiers = ["Development Status :: 6 - Mature",
         "Environment :: Win32 (MS Windows)",
