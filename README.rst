@@ -101,4 +101,4 @@ Source packages for each of these can be found at the following locations:
 .. _`libpng14-14`: http://www.libpng.org/pub/png/libpng.html
 .. _`zlib1`: http://zlib.net/
 .. _`python-cairo (source)`: http://ftp.gnome.org/pub/GNOME/sources/gnome-python-desktop/
-.. _`python-cairo-depdencies (source)`: http://www.github.com/jmcb/python-cairo-depedencies/
+.. _`python-cairo-dependencies (source)`: http://www.github.com/jmcb/python-cairo-depedencies/
