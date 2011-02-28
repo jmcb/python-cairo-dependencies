@@ -6,7 +6,8 @@ def main ():
         "zlib1.dll", "freetype6.dll", "libfontconfig-1.dll"]]
 
     licenses = ["doc/%s" % license for license in ["LICENSE-LGPL.TXT",
-        "LICENSE-CAIRO.TXT"]]
+        "LICENSE-CAIRO.TXT","LICENSE-FONTCONFIG.TXT", "LICENSE-LIBPNG.TXT",
+        "LICENSE-ZLIB.TXT"]]
 
     others = ["README.rst", "LICENSE.rst"]
 
