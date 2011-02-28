@@ -48,8 +48,6 @@ Binaries
 
 Binary packages were located at the following sources:
 
-Binary packages were located at the following sources:
-
  - `GTK+ "development" bundle`_:
      - freetype6
      - libfontconfig-1
