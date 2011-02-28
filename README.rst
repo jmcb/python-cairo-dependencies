@@ -80,8 +80,14 @@ Source packages for each of these can be found at the following locations:
 .. Licenses
 .. --------
 .. 
+.. _`FreeType license`: LICENSE-FTL.TXT
+.. _`GNU General Public License`: LICENSE-GPL.TXT
 .. _`GNU Lesser General Public License`: LICENSE-LGPL.TXT
 .. _`Mozilla Public License`: LICENSE-CAIRO.TXT
+.. _`fontconfig license`: LICENSE-FONTCONFIG.TXT
+.. _`libpng license`: LICENSE-LIBPNG.TXT
+.. _`zlib license`: LICENSE-ZLIB.TXT
+.. _`MIT License`: LICENSE-LXML2.TXT
 .. _`LICENSE.rst`: LICENSE.rst
 .. 
 .. Binaries
