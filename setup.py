@@ -23,7 +23,7 @@ def main ():
         "Operating System :: Microsoft :: Windows",
         "Topic :: Software Development :: Libraries"]
 
-    return setup(name="cairp-dependencies", version="0.1",
+    return setup(name="cairo-dependencies", version="0.1",
         maintainer="Jonathan McManus", maintainer_email="jonathan@acss.net.au", author="various",
         url="http://www.github.com/jmcb/python-cairo-dependencies",
         download_url="http://www.wxwhatever.com/jmcb/cairo", platforms="Microsoft Windows",
