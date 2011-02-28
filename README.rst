@@ -95,6 +95,7 @@ Source packages for each of these can be found at the following locations:
 .. _`libcairo-2.dll`: http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/cairo_1.10.2-1_win32.zip
 .. _`python-cairo`: http://ftp.gnome.org/pub/GNOME/binaries/win32/pycairo/
 .. _`python-cairo-dependencies`: http://www.wxwhatever.com/jmcb/cairo/cairo-dependencies-0.1.win32.exe
+.. _`GNOME Desktop Project's Windows binaries page`: http://ftp.gnome.org/pub/GNOME/binaries/win32/
 .. 
 .. Sources
 .. -------
