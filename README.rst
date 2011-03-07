@@ -36,6 +36,7 @@ License
  - fontconfig, which is licensed under the terms of the `fontconfig license`_.
  - libpng, which is licensed under the terms of the `libpng license`_.
  - zlib, which is licensed under the terms of the `zlib license`_.
+ - libexpat, which is licensed under the terms of the `MIT License`_.
 
 This individual package, its documentation, and the code required to build the
 package, is licensed under the terms of the MIT License. See `LICENSE.RST`_.
@@ -53,6 +54,7 @@ Binary packages were located at the following sources:
      - libfontconfig-1
      - libpng14-14
      - zlib1
+     - libexpat-1
  - `libcairo-2.dll`_
  - `python-cairo-dependencies`_
 
@@ -69,6 +71,7 @@ Source packages for each of these can be found at the following locations:
  - `libfontconfig-1`_
  - `libpng14-14`_
  - `zlib1`_
+ - `libexpat-1`_
  - `python-cairo`_
  - `python-cairo-dependencies (source)`_ (this project)
 
@@ -105,5 +108,6 @@ Source packages for each of these can be found at the following locations:
 .. _`libfontconfig-1`: http://www.freedesktop.org/software/fontconfig/release/
 .. _`libpng14-14`: http://www.libpng.org/pub/png/libpng.html
 .. _`zlib1`: http://zlib.net/
+.. _`libexpat-1`: http://sourceforge.net/projects/expat/files/
 .. _`python-cairo (source)`: http://ftp.gnome.org/pub/GNOME/sources/gnome-python-desktop/
 .. _`python-cairo-dependencies (source)`: http://www.github.com/jmcb/python-cairo-depedencies/
