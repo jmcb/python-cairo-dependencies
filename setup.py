@@ -3,7 +3,7 @@ from distutils.core import setup
 
 def main ():
     dlls = ["bin/%s" % dll for dll in ["libcairo-2.dll", "libpng14-14.dll",
-        "zlib1.dll", "freetype6.dll", "libfontconfig-1.dll"]]
+        "zlib1.dll", "freetype6.dll", "libfontconfig-1.dll", "libexpat-1.dll"]]
 
     licenses = ["doc/%s" % license for license in ["LICENSE-LGPL.TXT",
         "LICENSE-CAIRO.TXT","LICENSE-FONTCONFIG.TXT", "LICENSE-LIBPNG.TXT",
